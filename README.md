@@ -65,4 +65,4 @@ Users often need time to decide. The Wishlist feature allows them to curate thei
 **Diamond Hub** is not just a shop; it is a digital boutique. It successfully bridges the gap between traditional jewelry shopping and digital convenience, offering transparency, variety, and ease of use.
 
 ---
-*Developed by: [Your Name/Company Name]*
+*Developed by: [Vrushabh Hirpara / JDK Solution]*
